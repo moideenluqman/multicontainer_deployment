@@ -22,3 +22,4 @@ after_success:
     - docker push moideenluqman/multi-nginx
     - docker push moideenluqman/multi-server
     - docker push moideenluqman/multi-worker
+    
